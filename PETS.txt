@@ -1,0 +1,8 @@
+cat_number_first: Киса
+cat_number_second: Персей
+dog_number_first: Арчибальд
+dog_number_second: Бэн
+Turtle: Тутель
+fish_big_som: Номер1
+fish_small_som_first: Номер2
+fish_small_som_second: Номер3
