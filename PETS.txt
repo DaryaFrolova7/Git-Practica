@@ -6,3 +6,4 @@ Turtle: Тутель
 fish_big_som: Номер1
 fish_small_som_first: Номер2
 fish_small_som_second: Номер3
+spider_in_my_room: Володя
